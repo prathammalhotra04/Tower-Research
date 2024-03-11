@@ -19,3 +19,11 @@ c. Using the functional form given in equation (1) and the constraint that each 
 d. Collect all the indices you can solve and compute the covariance Σk×k for your predictions µk×N.
 
 e. Construct a trading strategy using µ and Σ from the previous part, subject to the constraints given in the problem statement.
+
+
+/**
+//Hi moderator
+I am a 2nd-year student from IITD, and I am fascinated by your solution for this challenge. Since this challenge is again going to happen in our campus from 16-21 march. Can you please suggest some materials/ courses to prepare for the competition? I am a beginner in this field but i havfe a strong interest to get started but could not find a good starting point. Thanks in advance. My mail id - malhotrapratham16@gmail.com.
+sorry for the pull request but i had no other option to connect other than creating a pull request
+Thanks
+**/
